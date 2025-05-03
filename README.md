@@ -3,9 +3,6 @@ This project was developed as a final assignment for the Artificial Intelligence
 The project explores how ensemble methods can enhance classification performance in weather datasets by reducing overfitting and increasing model generalization.
 
 Project Members:
-
-Rakhmadiani Ardinda Chaerunnisa
-
-Siroj Munir
-
-Naufal Afif Alfadhil
+1. Rakhmadiani Ardinda Chaerunnisa
+2. Siroj Munir
+3. Naufal Afif Alfadhil
